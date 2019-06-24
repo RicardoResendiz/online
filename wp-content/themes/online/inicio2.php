@@ -1,22 +1,20 @@
 <?php /* Template Name:INICIO3*/ ?>
 <?php get_header(); ?>
-<section class="banner-grado">
 <section class="banner-seleccion-grado">
 	<div class="header-grado">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="banner_content">
-						<h2 class="text-uppercase poppins-bold title-banner" style="line-height: .5;">
-							LICENCIATURAS
 					<div class="banner_content" id="inicio3-header">
 						<p style="line-height: .5; margin: 0px;"><strong>ONLINE</strong><i class="fas fa-users"></i><span>2450</span></p>
 						<h2 class="text-uppercase poppins-bold title-banner" style="line-height: 1;">
 							LICENCIATURA EN ADMINISTRACIÓN DE EMPRESAS
 						</h2>
-						<h3 class="text-uppercase signika">
-							Online
+						<h3 class="text-uppercase signika" style="margin-bottom: 20px;">
+							RVOE SEP-SES/21/114/01/1291/2015
 						</h3>
+						<a href="#" class="btn-inicio3-header">SOLICITA INFORMES</a>
+						<a href="#" class="btn-inicio3-header">INSCRÍBETE AHORA</a>
 					</div>
 				</div>
 			</div>
@@ -32,7 +30,7 @@
 						<i class="far fa-clock"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">ADMINISTRA TU TIEMPO</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">ADMINISTRA TU TIEMPO</p>
 						<p class="text-center">Puedes acceder a nuestra plataforma de estudio para estudiar en tus ratos libres desde cualquier lugar.</p>
 					</div>
 				</div>
@@ -43,7 +41,7 @@
 						<i class="fas fa-medal"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">LOGRA TU OBJETIVO</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">LOGRA TU OBJETIVO</p>
 						<p class="text-center">Termina tu licenciatura en un período de 3 años y 8 meses y obtén el mismo título profesional de sistema escolarizado.</p>
 					</div>
 				</div>
@@ -54,7 +52,7 @@
 						<i class="fas fa-user-tie"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">TUTORES ONLINE</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">TUTORES ONLINE</p>
 						<p class="text-center">Nuestros tutores se encuentran disponibles para responder a tus dudas en los horarios establecidos o por correo electrónico.</p>
 					</div>
 				</div>
@@ -70,7 +68,6 @@
         <h1 class="signika-bold">ADMINISTRACIÓN DE EMPRESAS</h2>	
       </div>
       <div class="col-12 col-md-12 col-xl-12">
-      	<p id="inicio2-parallax">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>
       </div>
     </div>
   </div>

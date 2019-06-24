@@ -75,6 +75,8 @@ function sizeWindow(){
 			$(".dates-footer").addClass('flex-column-reverse');
 			$("#img-footer-xl").hide();
 			$("#img-footer").show();
+			$(".planes-header").attr("data-toggle", "collapse");
+			$(".planes").addClass('collapse');
 		}
 		else{
 			$(".dates-footer").removeClass('flex-column-reverse');

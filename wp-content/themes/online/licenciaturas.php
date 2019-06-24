@@ -47,7 +47,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="single_event position-relative">
 					<div class="event_thumb">
-						<img src="<?php echo get_stylesheet_directory_uri()?>/images/junta.jpg" alt="" />
+						<img src="<?php echo get_stylesheet_directory_uri()?>/images/plano.jpg" alt="" />
 					</div>
 					<div class="event_details">
 						<div class="d-flex mb-4">

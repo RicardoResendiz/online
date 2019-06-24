@@ -1,6 +1,7 @@
 <?php /* Template Name:INICIO3*/ ?>
 <?php get_header(); ?>
 <section class="banner-grado">
+<section class="banner-seleccion-grado">
 	<div class="header-grado">
 		<div class="container">
 			<div class="row">

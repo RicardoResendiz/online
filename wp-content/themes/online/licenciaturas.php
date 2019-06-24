@@ -36,8 +36,8 @@
 								<!--<p><span class="ti-location-pin mr-2"></span> Hilton Quebec</p>-->
 							</div>
 						</div>
-						<div class="oferta-info text-center">
-							<p>La Licenciatura de Administración de Empresas forma profesionales capaces de gestionar de manera estratégica cualquier tipo de organización con habilidades necesarias para dirigir y tomar decisiones proactivas en los ámbitos laborales.</p>
+						<div class="oferta-info">
+							<p align="justify">La Licenciatura de Administración de Empresas forma profesionales capaces de gestionar de manera estratégica cualquier tipo de organización con habilidades necesarias para dirigir y tomar decisiones proactivas en los ámbitos laborales.</p>
 							<a href="#" class="btn-mas primary-btn mt-3">Ver más</a>
 							<a href="#" class="btn-mas primary-btn mt-3">Inscribete</a>
 						</div>
@@ -58,10 +58,10 @@
 								<!--<p><span class="ti-location-pin mr-2"></span> Hilton Quebec</p>-->
 							</div>
 						</div>
-						<div class="oferta-info text-center">
-							<p>La Licenciatura Online en Ingenieria Industrial forma profesionales capaces de gestionar de manera estratégica cualquier tipo de organización con habilidades necesarias para dirigir y tomar decisiones proactivas en los ámbitos laborales.</p>
-							<a href="#" class="btn-mas primary-btn mt-3">View Details</a>
-							<a href="#" class="btn-mas primary-btn mt-3">View Details</a>
+						<div class="oferta-info">
+							<p align="justify">La Licenciatura Online en Ingenieria Industrial forma profesionales capaces de gestionar de manera estratégica cualquier tipo de organización con habilidades necesarias para dirigir y tomar decisiones proactivas en los ámbitos laborales.</p>
+							<a href="#" class="btn-mas primary-btn mt-3">Ver más</a>
+							<a href="#" class="btn-mas primary-btn mt-3">Inscribete</a>
 						</div>
 					</div>
 				</div>

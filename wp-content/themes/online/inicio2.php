@@ -68,6 +68,9 @@
         <h1 class="signika-bold">ADMINISTRACIÓN DE EMPRESAS</h2>	
       </div>
       <div class="col-12 col-md-12 col-xl-12">
+      	<p id="inicio2-parallax">El plan de estudios de UVP Online ofrece las posibilidad de integrar habilidades y competencias para el desarrollo del capital humano, financiero, liderazgo corporativo y social así como gestión empresarial, marketing, contabilidad y emprendimiento.</p>
+      	<p id="inicio2-parallax">Al ser en línea, desarrollas también habilidades tecnológicas que fortalecerán la interrelaciones socio-profesionales en todo momento permitiendo además distribuir, organizar y gestionar los espacios y tiempos de acuerdo a tus necesidades.</p>
+      	<p id="inicio2-parallax">Por tanto el beneficio es integral, es decir favorece el desarrollo social, laboral y crea tu mejor yo</p>
       </div>
     </div>
   </div>
@@ -82,7 +85,7 @@
 						<i class="fas fa-user-tie"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">TUTORES</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">TUTORES</p>
 						<p class="text-center">Se te asignarán tutores de materia y de carrera para darte asesoría en el transcurso de toda tu licenciatura.</p>
 					</div>
 				</div>
@@ -93,7 +96,7 @@
 						<i class="fas fa-dollar-sign"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">COSTOS</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">COSTOS</p>
 						<p class="text-center">Inscripción Única: $1,300 Colegiatura Mensual: $3,050</p>
 					</div>
 				</div>
@@ -104,7 +107,7 @@
 						<i class="far fa-credit-card"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">PAGOS</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">PAGOS</p>
 						<p class="text-center">Ponemos a tu disposición nuestra plataforma Online para que realices tus pagos de forma rápida y segura.</p>
 					</div>
 				</div>
@@ -115,27 +118,13 @@
 						<i class="fas fa-handshake"></i>
 					</div>
 					<div class="desc">
-						<p class="mt-3 mb-2 text-center poppins-bold">CONVENIOS</p>
+						<p class="mt-3 mb-2 text-center poppins-bold-black">CONVENIOS</p>
 						<p class="text-center">Pregunta por nuestras becas por convenio y por rendimiento académico.</p>
 					</div>
 				</div>
 			</div>
 		</div>
-		<h1 class="signika-bold-black text-heading title_color">ESTAS SON ALGUNAS DE LAS INSTITUCIONES Y EMPRESAS CON LAS QUE LA UVP TIENE CONVENIOS:</h1>
-		<style>
-			.convenios{
-				text-align: center;
-				border: 1px solid #CCCCCC;
-				border-radius: 5px;
-				padding: 15px;
-			}
-			.padre-convenios{
-				flex-grow: 1;
-				padding: 15px;
-				max-width: 20%;
-				min-width: 20%;
-			}
-		</style>
+		<h1 class="signika-bold-black text-heading title_color">CONVENIOS UVP</h1>
 		<div id="repres" class="row" style="margin-top: 2%;">
 			<div class="padre-convenios">
 				<div class="convenios">

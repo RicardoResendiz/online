@@ -997,6 +997,11 @@ div.single_feature:hover .icon i{
   font-weight: 700;
   color: white;
 }
+.poppins-bold-black{
+  font-family: Poppins;
+  font-weight: 700;
+  color: black;
+}
 .poppins-regular{
   color: white
   font-family: Poppins;
@@ -1105,6 +1110,12 @@ div.single_feature:hover .icon i{
   }
   .btn-boletin{
     margin-top: 10px;
+  }
+  .paral p {
+    font-size: 24px;
+    color:black !important;
+    text-align: center;
+    line-height: 60px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 991px) {

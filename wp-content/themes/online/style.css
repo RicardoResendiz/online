@@ -1191,7 +1191,35 @@ div.div-planes:hover .planes-header {
 div.div-planes:hover .planes-title {
   color: white;
 }
+
 /*fin de planes de estudio*/
+
+/*INICIO Convenios*/
+.convenios{
+  text-align: center;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  padding: 15px;
+}
+.padre-convenios{
+  flex-grow: 1;
+  padding: 15px;
+  max-width: 20%;
+  min-width: 20%;
+}
+@media (max-width: 991px) {
+  .padre-convenios{
+    flex-grow: 1;
+    padding: 15px;
+    max-width: 50%;
+    min-width: 50%;
+  }
+  .btn-completo:hover {
+    color: white;
+    background-color: #91268F;
+  }
+}
+/*FIN Convenios*/
 
   @media (max-width: 480px) {
     .single_feature {
@@ -1234,9 +1262,8 @@ div.div-planes:hover .planes-title {
     padding: 10px 10px;
   }
 }
-
-
 /*fin opcuibes de grados*/
+
 /* End Features Area css
 ============================================================================================ */
 /* Start Popular Courses Area css

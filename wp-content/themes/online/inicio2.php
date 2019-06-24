@@ -9,6 +9,10 @@
 					<div class="banner_content">
 						<h2 class="text-uppercase poppins-bold title-banner" style="line-height: .5;">
 							LICENCIATURAS
+					<div class="banner_content" id="inicio3-header">
+						<p style="line-height: .5; margin: 0px;"><strong>ONLINE</strong><i class="fas fa-users"></i><span>2450</span></p>
+						<h2 class="text-uppercase poppins-bold title-banner" style="line-height: 1;">
+							LICENCIATURA EN ADMINISTRACIÓN DE EMPRESAS
 						</h2>
 						<h3 class="text-uppercase signika">
 							Online

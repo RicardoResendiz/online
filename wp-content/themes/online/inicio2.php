@@ -125,6 +125,7 @@
 			</div>
 		</div>
 		<h1 class="signika-bold-black text-heading title_color">CONVENIOS UVP</h1>
+		<h5>ESTAS SON ALGUNAS DE LAS INSTITUCIONES Y EMPRESAS CON LAS QUE LA UVP TIENE CONVENIOS:</h5>
 		<div id="repres" class="row" style="margin-top: 2%;">
 			<div class="padre-convenios">
 				<div class="convenios">
@@ -177,6 +178,9 @@
 			<div class="col-md-9">
 				<h4>Nuestro plan de estudios esta dividido en 11 cuatrimestres que conforman la licenciatura, asignándose una materia a la vez hasta terminar el plan de estudios.</h4>
 			</div>
+			<div class="col-md-3">
+				<a href="#" class="btn-completo btn"><i class="far fa-file-pdf"></i> PLAN DE ESTUDIOS COMPLETO</a>
+			</div>
 		</div>
 		<style>
 			.lev1{
@@ -196,10 +200,10 @@
 			<div class="row">
 				<div id="admin" class="col-md-4 col-planes ">
 					<div class="div-planes">
-						<div class="planes-header">
+						<div class="planes-header" data-target="#demo">
 							<h4 class="planes-title">ADMINISTRACIÓN</h4>
 						</div>
-						<div class="planes lev1">
+						<div id="demo" class="planes lev1">
 							<ul>
 								<li>Introducción a la Administración</li>
 								<li>Proceso Administrativo</li>

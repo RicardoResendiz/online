@@ -1,21 +1,17 @@
-<?php /* Template Name: Inicio2 */ ?>
+<?php /* Template Name:INICIO3*/ ?>
 <?php get_header(); ?>
-<section class="home_banner_area">
-	<div class="banner_inner">
+<section class="banner-grado">
+	<div class="header-grado">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="banner_content text-center">
-						<p class="text-uppercase">
-							Best online education service In the world
-						</p>
-						<h2 class="text-uppercase mt-4 mb-5">
-							One Step Ahead This Season
+					<div class="banner_content">
+						<h2 class="text-uppercase poppins-bold title-banner" style="line-height: .5;">
+							LICENCIATURAS
 						</h2>
-						<div>
-							<a href="#" class="primary-btn2 mb-3 mb-sm-0">learn more</a>
-							<a href="#" class="primary-btn ml-sm-3 ml-0">see course</a>
-						</div>
+						<h3 class="text-uppercase signika">
+							Online
+						</h3>
 					</div>
 				</div>
 			</div>
